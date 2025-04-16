@@ -17,13 +17,13 @@
           <mxGeometry x="1060" y="200" width="242" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5" value="Direct Employer Login" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1371" y="226" width="218" height="54" as="geometry" />
+          <mxGeometry x="2113" y="226" width="218" height="54" as="geometry" />
         </mxCell>
         <mxCell id="6" value="Impersonate Employer" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1707" y="226" width="254" height="54" as="geometry" />
+          <mxGeometry x="1400" y="198" width="254" height="54" as="geometry" />
         </mxCell>
         <mxCell id="7" value="API Calls" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1630" y="330" width="122" height="54" as="geometry" />
+          <mxGeometry x="1110" y="300" width="122" height="54" as="geometry" />
         </mxCell>
         <mxCell id="9" value="GetEmployerData" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1310" y="523" width="190" height="54" as="geometry" />
