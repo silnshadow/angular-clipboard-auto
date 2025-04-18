@@ -228,7 +228,7 @@
         <mxCell id="OWQyZKUGUi6zK42tMtP6-6" value="DB_READ&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Audit&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="gqxJIJq0uPLDfoPO1eKD-1">
           <mxGeometry x="523.75" y="190" width="102.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OWQyZKUGUi6zK42tMtP6-11" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Missing Index&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Non clustered index on Audit(EmprAcctID, StatusCD, AuditTypeCD)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;" vertex="1" parent="gqxJIJq0uPLDfoPO1eKD-1">
+        <mxCell id="OWQyZKUGUi6zK42tMtP6-11" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;Missing Index&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;Non clustered index on Audit(EmprAcctID, StatusCD, AuditTypeCD)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;" vertex="1" parent="gqxJIJq0uPLDfoPO1eKD-1">
           <mxGeometry x="200" y="300" width="137.5" height="130" as="geometry" />
         </mxCell>
       </root>
