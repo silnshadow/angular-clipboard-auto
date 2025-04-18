@@ -240,6 +240,9 @@
         <mxCell id="OWQyZKUGUi6zK42tMtP6-16" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Unnecessary data fetching and looping on records&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;" vertex="1" parent="gqxJIJq0uPLDfoPO1eKD-1">
           <mxGeometry x="170" y="195" width="170" height="85" as="geometry" />
         </mxCell>
+        <mxCell id="OWQyZKUGUi6zK42tMtP6-17" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Combined both Results in one new View Model&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;" vertex="1" parent="gqxJIJq0uPLDfoPO1eKD-1">
+          <mxGeometry x="640" y="290" width="140" height="85" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
