@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.12" pages="4">
-  <diagram name="Page-1" id="ewsz53idRUT3qrTNFcwD">
-    <mxGraphModel dx="917" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.13" pages="4">
+  <diagram name="Impersonation" id="ewsz53idRUT3qrTNFcwD">
+    <mxGraphModel dx="450" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-101" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-101" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="398" width="639" height="356" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-93" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-93" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1654" y="398" width="639" height="356" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-59" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-59" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2450" y="369" width="639" height="356" as="geometry" />
         </mxCell>
         <mxCell id="2" value="Start" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
@@ -19,13 +19,13 @@
         <mxCell id="4" value="Elastic Search Result Row" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1210" y="234" width="242" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.186;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5" target="7oox1tBeZ_GAB9jar0ls-59">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.186;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="5" target="7oox1tBeZ_GAB9jar0ls-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5" value="Direct Employer Login" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2190" y="230" width="218" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6" target="7oox1tBeZ_GAB9jar0ls-84">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6" target="7oox1tBeZ_GAB9jar0ls-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6" value="Impersonate Employer From Recent Search" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
@@ -77,70 +77,70 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8" target="7oox1tBeZ_GAB9jar0ls-110">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="8" target="7oox1tBeZ_GAB9jar0ls-110" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8" value="IsQuarterlyCertified" style="whiteSpace=wrap;strokeWidth=2;fillColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="973.5" y="688" width="160" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.347;entryY=1.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="18" target="18">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.347;entryY=1.043;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="18" target="18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-65" value="GetEmployerData" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-65" value="GetEmployerData" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2780" y="634" width="186" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-66" value="GetOutStandingBalance" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-66" value="GetOutStandingBalance" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2550" y="634" width="169" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-67" value="GetTPAList" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-67" value="GetTPAList" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2700" y="400" width="137" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-68" value="GetEmployerWorkItemData" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-68" value="GetEmployerWorkItemData" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2480" y="476" width="254" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-73" value="GetWageSubmHistory" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-73" value="GetWageSubmHistory" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2510" y="554" width="213" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-74" value="GetDelinquentAndAssessedQuarters" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-74" value="GetDelinquentAndAssessedQuarters" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2750" y="476" width="315" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-75" value="IsQuarterlyCertified" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-75" value="IsQuarterlyCertified" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2806" y="554" width="203" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-77" value="GetLastSearches" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-77" value="GetLastSearches" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1166" y="680" width="164" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-83" value="GetTPAList" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-83" value="GetTPAList" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1674" y="410" width="137" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-84" value="GetEmployerWorkItemData" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-84" value="GetEmployerWorkItemData" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1853" y="410" width="173" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-85" value="VCPOptionEligibilityCheck" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-85" value="VCPOptionEligibilityCheck" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2064.5" y="410" width="189" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-86" value="GetWageSubmHistory" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-86" value="GetWageSubmHistory" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1865" y="488" width="170" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-87" value="GetEmployerData" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-87" value="GetEmployerData" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2055" y="488" width="190" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-88" value="GetEmprDetailsForHeader" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-88" value="GetEmprDetailsForHeader" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2080" y="580" width="180" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-89" value="GetOutStandingBalance" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-89" value="GetOutStandingBalance" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1886" y="570" width="169" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-90" value="GetEAuditStatusUsingID" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-90" value="GetEAuditStatusUsingID" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1664" y="488" width="166" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-91" value="IsQuarterlyCertified" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-91" value="IsQuarterlyCertified" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1670" y="570" width="166" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-92" value="GetDelinquentAndAssessedQuarters" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-92" value="GetDelinquentAndAssessedQuarters" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1845" y="640" width="210" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-100" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.589;entryY=-0.171;entryDx=0;entryDy=0;entryPerimeter=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-100" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.589;entryY=-0.171;entryDx=0;entryDy=0;entryPerimeter=0;exitDx=0;exitDy=0;" parent="1" source="2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2490.5" y="106" />
@@ -149,7 +149,7 @@
             <mxPoint x="2363.5" y="234" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7oox1tBeZ_GAB9jar0ls-110" value="It will be only called for employer" style="whiteSpace=wrap;html=1;fillColor=#FFD966;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7oox1tBeZ_GAB9jar0ls-110" value="It will be only called for employer" style="whiteSpace=wrap;html=1;fillColor=#FFD966;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="993.5" y="819" width="376.5" height="111" as="geometry" />
         </mxCell>
       </root>
@@ -247,11 +247,11 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of FieldAudit" id="_9YSnncqlg8su63EOdZo">
-    <mxGraphModel dx="780" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="780" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ZNduaMCU9uh57BCl2ZAJ-0" />
         <mxCell id="ZNduaMCU9uh57BCl2ZAJ-1" parent="ZNduaMCU9uh57BCl2ZAJ-0" />
-        <mxCell id="5hV1rq7bSbCFFTndVq_E-0" value="Sql Indexes :&#xa;EmprAcctId,AgentId,RoleId - Agent&#xa;FilteredIndexs on FuncIn =&#39;Y&#39;&#xa;&#xa;&#xa;Wkfl_Dtl Table :&#xa;Non clustere Index on StatusCd + Employer Account Detail&#xa;&#xa;&#xa;Non Clustered Index on on Table Empr + Status&#xa;&#xa;&#xa;New EndPoint for GetTPAList with new ViewModel&#xa;&#xa;&#xa;IsEmployerBeingAduitedRecordWillbeAddedIn - Add EAduit indicator as well Employer Context and In GetEmprDetailsForHeader method as well&#xa;Non clustered index on Audit(EmprAcctID, StatusCD, AuditTypeCD);&#xa;&#xa;&#xa;Add TaxFilingDt from bankruptcy table like BankruptcyIN&#xa;&#xa;&#xa;&#xa;&#xa;9867440159&#xa;&#xa;&#xa;5750 &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;GETTPALIST - 499 - 899 (PRE)&#xa;0.541" style="text;whiteSpace=wrap;" vertex="1" parent="ZNduaMCU9uh57BCl2ZAJ-1">
+        <mxCell id="5hV1rq7bSbCFFTndVq_E-0" value="Sql Indexes :&#xa;EmprAcctId,AgentId,RoleId - Agent&#xa;FilteredIndexs on FuncIn =&#39;Y&#39;&#xa;&#xa;&#xa;Wkfl_Dtl Table :&#xa;Non clustere Index on Employer Account Detail&#xa;&#xa;&#xa;Non Clustered Index on on Table Empr + Status&#xa;&#xa;&#xa;New EndPoint for GetTPAList with new ViewModel&#xa;&#xa;&#xa;IsEmployerBeingAduitedRecordWillbeAddedIn - Add EAduit indicator as well Employer Context and In GetEmprDetailsForHeader method as well&#xa;Non clustered index on Audit(EmprAcctID, StatusCD, AuditTypeCD);&#xa;&#xa;&#xa;Add TaxFilingDt from bankruptcy table like BankruptcyIN&#xa;&#xa;Note : Inform vishal about Staging table changes in batch&#xa;&#xa;&#xa;&#xa;&#xa;9867440159&#xa;&#xa;&#xa;5750 &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;GETTPALIST - 499 - 899 (PRE)&#xa;0.541" style="text;whiteSpace=wrap;" parent="ZNduaMCU9uh57BCl2ZAJ-1" vertex="1">
           <mxGeometry x="370" y="290" width="560" height="560" as="geometry" />
         </mxCell>
       </root>
