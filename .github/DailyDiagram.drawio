@@ -247,7 +247,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="GetEmprDetailsForHeader" id="jO2HzDOum1Zfp6ZJv3UK">
-    <mxGraphModel dx="1768" dy="1641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2305" dy="1641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HxVQon8maD3Z4WBwlMZy-0" />
         <mxCell id="HxVQon8maD3Z4WBwlMZy-1" parent="HxVQon8maD3Z4WBwlMZy-0" />
@@ -261,7 +261,7 @@
           <mxGeometry x="-118.13000000000001" y="110" width="126.25" height="200" as="geometry" />
         </mxCell>
         <mxCell id="buWAQ6UeyX8wc0AZZXx_-0" value="&lt;b&gt;DB_READ&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;Bankruptcy&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFF99;" vertex="1" parent="HxVQon8maD3Z4WBwlMZy-1">
-          <mxGeometry x="49.999999999999986" y="110" width="126.25" height="200" as="geometry" />
+          <mxGeometry x="39.999999999999986" y="110" width="126.25" height="200" as="geometry" />
         </mxCell>
         <mxCell id="buWAQ6UeyX8wc0AZZXx_-1" value="&lt;b&gt;DB_READ&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;TaxRateParam&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;TaxRateCalculate&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;Indicator&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;TaxRateHdr&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFF99;" vertex="1" parent="HxVQon8maD3Z4WBwlMZy-1">
           <mxGeometry x="360" y="110" width="120" height="200" as="geometry" />
@@ -285,7 +285,7 @@
           <mxGeometry x="198.13" y="322.5" width="130" height="205" as="geometry" />
         </mxCell>
         <mxCell id="buWAQ6UeyX8wc0AZZXx_-8" value="&lt;b&gt;DB_READ&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;Agent&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;AgentEmprFunc&lt;/b&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFF99;" vertex="1" parent="HxVQon8maD3Z4WBwlMZy-1">
-          <mxGeometry x="350" y="322.5" width="130" height="205" as="geometry" />
+          <mxGeometry x="355" y="325" width="130" height="205" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
