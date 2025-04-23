@@ -287,7 +287,7 @@
         <mxCell id="buWAQ6UeyX8wc0AZZXx_-15" value="FieldAuidtProxy - To Check Audit Status" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="HxVQon8maD3Z4WBwlMZy-1">
           <mxGeometry x="-110" y="560" width="240" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="buWAQ6UeyX8wc0AZZXx_-17" value="WageDetailProxy - To Check Audit Status" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="HxVQon8maD3Z4WBwlMZy-1">
+        <mxCell id="buWAQ6UeyX8wc0AZZXx_-17" value="WageDetailProxy - To Check Deliquency" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="HxVQon8maD3Z4WBwlMZy-1">
           <mxGeometry x="220" y="560" width="240" height="240" as="geometry" />
         </mxCell>
       </root>
