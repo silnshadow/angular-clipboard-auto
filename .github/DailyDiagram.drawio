@@ -247,7 +247,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="GetEmprDetailsForHeader" id="jO2HzDOum1Zfp6ZJv3UK">
-    <mxGraphModel dx="2410" dy="1952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1964" dy="1709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HxVQon8maD3Z4WBwlMZy-0" />
         <mxCell id="HxVQon8maD3Z4WBwlMZy-1" parent="HxVQon8maD3Z4WBwlMZy-0" />
@@ -284,11 +284,11 @@
         <mxCell id="buWAQ6UeyX8wc0AZZXx_-7" value="&lt;b&gt;DB_READ&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;Agent&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;AgentEmprFunc&lt;/b&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFF99;shadow=1;" vertex="1" parent="HxVQon8maD3Z4WBwlMZy-1">
           <mxGeometry x="198.13" y="322.5" width="130" height="205" as="geometry" />
         </mxCell>
-        <mxCell id="buWAQ6UeyX8wc0AZZXx_-15" value="FieldAuidtProxy - To Check Audit Status" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="HxVQon8maD3Z4WBwlMZy-1">
+        <mxCell id="buWAQ6UeyX8wc0AZZXx_-15" value="&lt;b&gt;FieldAuidtProxy&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;- To Check Audit Status&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6D0DE;" vertex="1" parent="HxVQon8maD3Z4WBwlMZy-1">
           <mxGeometry x="-110" y="560" width="240" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="buWAQ6UeyX8wc0AZZXx_-17" value="WageDetailProxy - To Check Deliquency" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="HxVQon8maD3Z4WBwlMZy-1">
-          <mxGeometry x="220" y="560" width="240" height="240" as="geometry" />
+        <mxCell id="buWAQ6UeyX8wc0AZZXx_-17" value="&lt;b&gt;WageDetailProxy&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;- To Check Deliquency&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6D0DE;" vertex="1" parent="HxVQon8maD3Z4WBwlMZy-1">
+          <mxGeometry x="240" y="560" width="240" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
