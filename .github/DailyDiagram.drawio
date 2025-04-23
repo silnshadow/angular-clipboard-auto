@@ -284,9 +284,6 @@
         <mxCell id="buWAQ6UeyX8wc0AZZXx_-7" value="&lt;b&gt;DB_READ&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;Agent&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;AgentEmprFunc&lt;/b&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFF99;shadow=1;" vertex="1" parent="HxVQon8maD3Z4WBwlMZy-1">
           <mxGeometry x="198.13" y="322.5" width="130" height="205" as="geometry" />
         </mxCell>
-        <mxCell id="buWAQ6UeyX8wc0AZZXx_-8" value="&lt;b&gt;DB_READ&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;Agent&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;AgentEmprFunc&lt;/b&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFFF99;shadow=1;" vertex="1" parent="HxVQon8maD3Z4WBwlMZy-1">
-          <mxGeometry x="355" y="325" width="130" height="205" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
