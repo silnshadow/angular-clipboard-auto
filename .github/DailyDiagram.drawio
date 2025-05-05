@@ -372,7 +372,7 @@
         <mxCell id="xeAHggw1qw-MXTzR-PCG-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SdLPJ_pzZ3Pu6bQlHHAO-1" source="xeAHggw1qw-MXTzR-PCG-4" target="xeAHggw1qw-MXTzR-PCG-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xeAHggw1qw-MXTzR-PCG-4" value="Workflow Proxy" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="SdLPJ_pzZ3Pu6bQlHHAO-1">
+        <mxCell id="xeAHggw1qw-MXTzR-PCG-4" value="Workflow Proxy&lt;div&gt;&lt;br&gt;&lt;div&gt;Update instance&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="SdLPJ_pzZ3Pu6bQlHHAO-1">
           <mxGeometry x="-514.37" y="360" width="231.25" height="160" as="geometry" />
         </mxCell>
       </root>
