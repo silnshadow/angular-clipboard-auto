@@ -354,17 +354,14 @@
       <root>
         <mxCell id="SdLPJ_pzZ3Pu6bQlHHAO-0" />
         <mxCell id="SdLPJ_pzZ3Pu6bQlHHAO-1" parent="SdLPJ_pzZ3Pu6bQlHHAO-0" />
-        <mxCell id="SdLPJ_pzZ3Pu6bQlHHAO-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="SdLPJ_pzZ3Pu6bQlHHAO-1" vertex="1">
-          <mxGeometry x="-260" y="-110" width="620" height="620" as="geometry" />
-        </mxCell>
         <mxCell id="SdLPJ_pzZ3Pu6bQlHHAO-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="SdLPJ_pzZ3Pu6bQlHHAO-1" source="SdLPJ_pzZ3Pu6bQlHHAO-5" target="SdLPJ_pzZ3Pu6bQlHHAO-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SdLPJ_pzZ3Pu6bQlHHAO-5" value="&lt;font style=&quot;font-size: 12px; color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;API :&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;GenerateLeadAuditToAudit&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#00CC00;shadow=1;" parent="SdLPJ_pzZ3Pu6bQlHHAO-1" vertex="1">
-          <mxGeometry x="-160" width="210" height="30" as="geometry" />
+          <mxGeometry x="-120" y="-170" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SdLPJ_pzZ3Pu6bQlHHAO-6" value="DB_READ&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Audit&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="SdLPJ_pzZ3Pu6bQlHHAO-1" vertex="1">
-          <mxGeometry x="-106.25" y="100" width="102.5" height="120" as="geometry" />
+          <mxGeometry x="-450" y="-90" width="102.5" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
