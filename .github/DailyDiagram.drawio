@@ -502,7 +502,7 @@
           <mxGeometry x="-647.25" y="-565" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WC9zymS3yiM6LONH22il-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;READ&lt;br&gt;&lt;div&gt;&lt;div&gt;WageDtlTran&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WC9zymS3yiM6LONH22il-1">
-          <mxGeometry x="-627.25" y="-280" width="110" height="140" as="geometry" />
+          <mxGeometry x="-627.25" y="-270" width="110" height="140" as="geometry" />
         </mxCell>
         <mxCell id="-Ks5yGf0IwNx-tc1Ct87-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WC9zymS3yiM6LONH22il-1" source="WC9zymS3yiM6LONH22il-8" target="-Ks5yGf0IwNx-tc1Ct87-4">
           <mxGeometry relative="1" as="geometry">
