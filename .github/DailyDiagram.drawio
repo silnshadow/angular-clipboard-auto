@@ -383,6 +383,12 @@
       <root>
         <mxCell id="wswy12nx5ggPTzDI3H5f-0" />
         <mxCell id="wswy12nx5ggPTzDI3H5f-1" parent="wswy12nx5ggPTzDI3H5f-0" />
+        <mxCell id="tvJN-j0uumkm1aObJJgK-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="wswy12nx5ggPTzDI3H5f-1">
+          <mxGeometry x="-559.5" y="390" width="270" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="tvJN-j0uumkm1aObJJgK-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wswy12nx5ggPTzDI3H5f-1" source="tvJN-j0uumkm1aObJJgK-0" target="tvJN-j0uumkm1aObJJgK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tvJN-j0uumkm1aObJJgK-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="wswy12nx5ggPTzDI3H5f-1">
           <mxGeometry x="-580" y="-210" width="360" height="360" as="geometry" />
         </mxCell>
@@ -400,6 +406,21 @@
         </mxCell>
         <mxCell id="wswy12nx5ggPTzDI3H5f-6" value="&lt;b&gt;Delete&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;WageDtlTran&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="wswy12nx5ggPTzDI3H5f-1">
           <mxGeometry x="-470" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tvJN-j0uumkm1aObJJgK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wswy12nx5ggPTzDI3H5f-1" source="tvJN-j0uumkm1aObJJgK-1" target="tvJN-j0uumkm1aObJJgK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tvJN-j0uumkm1aObJJgK-1" value="WageDetail&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Read(Non Async)&lt;br&gt;&lt;div&gt;WageIntfHdr&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="wswy12nx5ggPTzDI3H5f-1">
+          <mxGeometry x="-492" y="220" width="135" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tvJN-j0uumkm1aObJJgK-3" value="WageDetail&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Read(Non Async)&lt;br&gt;&lt;div&gt;WageFileDataum&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="wswy12nx5ggPTzDI3H5f-1">
+          <mxGeometry x="-492" y="400" width="135" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tvJN-j0uumkm1aObJJgK-4" value="&lt;b&gt;Delete&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;WageDtlTran&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="wswy12nx5ggPTzDI3H5f-1">
+          <mxGeometry x="-470" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tvJN-j0uumkm1aObJJgK-5" value="&lt;b&gt;Delete&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;WageFileDataum&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="wswy12nx5ggPTzDI3H5f-1">
+          <mxGeometry x="-484.25" y="530" width="119.5" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
