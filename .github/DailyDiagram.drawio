@@ -396,7 +396,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wswy12nx5ggPTzDI3H5f-5" value="&lt;div&gt;&lt;b&gt;WageDetail&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;DB_READ&lt;div&gt;&lt;br&gt;&lt;div&gt;WageDtlTran&lt;/div&gt;&lt;div&gt;WageUnitDtl&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="wswy12nx5ggPTzDI3H5f-1">
-          <mxGeometry x="-460" y="-190" width="110" height="140" as="geometry" />
+          <mxGeometry x="-460" y="-180" width="110" height="140" as="geometry" />
         </mxCell>
         <mxCell id="wswy12nx5ggPTzDI3H5f-6" value="&lt;b&gt;Delete&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;WageDtlTran&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="wswy12nx5ggPTzDI3H5f-1">
           <mxGeometry x="-470" width="130" height="130" as="geometry" />
