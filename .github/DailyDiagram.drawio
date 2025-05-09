@@ -485,7 +485,7 @@
           <mxGeometry x="-1070" y="-290" width="1180" height="600" as="geometry" />
         </mxCell>
         <mxCell id="-Ks5yGf0IwNx-tc1Ct87-24" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WC9zymS3yiM6LONH22il-1">
-          <mxGeometry x="-517.25" y="-80" width="337.25" height="290" as="geometry" />
+          <mxGeometry x="-517.25" y="-40" width="337.25" height="290" as="geometry" />
         </mxCell>
         <mxCell id="WC9zymS3yiM6LONH22il-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WC9zymS3yiM6LONH22il-1" source="-Ks5yGf0IwNx-tc1Ct87-4" target="WC9zymS3yiM6LONH22il-10">
           <mxGeometry relative="1" as="geometry" />
@@ -511,13 +511,13 @@
           <mxGeometry x="-670" y="-437" width="195.5" height="77" as="geometry" />
         </mxCell>
         <mxCell id="-Ks5yGf0IwNx-tc1Ct87-14" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Update&lt;br&gt;&lt;div&gt;&lt;div&gt;WageDtlTran&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WC9zymS3yiM6LONH22il-1">
-          <mxGeometry x="-479.5" y="-55" width="110" height="140" as="geometry" />
+          <mxGeometry x="-490" y="-20" width="110" height="140" as="geometry" />
         </mxCell>
         <mxCell id="-Ks5yGf0IwNx-tc1Ct87-17" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Read&amp;nbsp;&lt;/div&gt;&lt;div&gt;(To GetMaxSequence)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;WageDtlTran&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WC9zymS3yiM6LONH22il-1">
-          <mxGeometry x="-349.5" y="-55" width="130" height="130" as="geometry" />
+          <mxGeometry x="-330" y="-20" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="-Ks5yGf0IwNx-tc1Ct87-18" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Insert&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;WageDtlTran&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WC9zymS3yiM6LONH22il-1">
-          <mxGeometry x="-380" y="90" width="110" height="100" as="geometry" />
+          <mxGeometry x="-390" y="120" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-Ks5yGf0IwNx-tc1Ct87-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="WC9zymS3yiM6LONH22il-1">
           <mxGeometry x="-597.25" y="-305" width="50" height="390" as="geometry" />
@@ -529,13 +529,13 @@
           <mxGeometry x="-890" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-Ks5yGf0IwNx-tc1Ct87-27" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Read&amp;nbsp;&lt;/div&gt;&lt;div&gt;(To GetMaxSequence)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;WageDtlTran&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WC9zymS3yiM6LONH22il-1">
-          <mxGeometry x="-770" y="-20" width="130" height="130" as="geometry" />
+          <mxGeometry x="-757.25" y="30" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="-Ks5yGf0IwNx-tc1Ct87-28" value="No Tran Present" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WC9zymS3yiM6LONH22il-1">
+        <mxCell id="-Ks5yGf0IwNx-tc1Ct87-28" value="Not Present" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WC9zymS3yiM6LONH22il-1">
           <mxGeometry x="-818.82" y="-85" width="105.88" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-Ks5yGf0IwNx-tc1Ct87-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WC9zymS3yiM6LONH22il-1">
-          <mxGeometry x="-390" y="-100" width="60" height="30" as="geometry" />
+        <mxCell id="-Ks5yGf0IwNx-tc1Ct87-29" value="Present" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WC9zymS3yiM6LONH22il-1">
+          <mxGeometry x="-409.5" y="-85" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
