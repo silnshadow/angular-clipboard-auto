@@ -383,6 +383,9 @@
       <root>
         <mxCell id="wswy12nx5ggPTzDI3H5f-0" />
         <mxCell id="wswy12nx5ggPTzDI3H5f-1" parent="wswy12nx5ggPTzDI3H5f-0" />
+        <mxCell id="tvJN-j0uumkm1aObJJgK-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="wswy12nx5ggPTzDI3H5f-1">
+          <mxGeometry x="-580" y="-210" width="360" height="360" as="geometry" />
+        </mxCell>
         <mxCell id="wswy12nx5ggPTzDI3H5f-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wswy12nx5ggPTzDI3H5f-1" source="wswy12nx5ggPTzDI3H5f-3" target="wswy12nx5ggPTzDI3H5f-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -396,13 +399,7 @@
           <mxGeometry x="-460" y="-190" width="110" height="140" as="geometry" />
         </mxCell>
         <mxCell id="wswy12nx5ggPTzDI3H5f-6" value="&lt;b&gt;Delete&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;WageDtlTran&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="wswy12nx5ggPTzDI3H5f-1">
-          <mxGeometry x="-470" y="70" width="130" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="wswy12nx5ggPTzDI3H5f-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wswy12nx5ggPTzDI3H5f-1" source="wswy12nx5ggPTzDI3H5f-8" target="wswy12nx5ggPTzDI3H5f-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wswy12nx5ggPTzDI3H5f-8" value="Workflow Proxy&lt;div&gt;&lt;br&gt;&lt;div&gt;Update instance&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="wswy12nx5ggPTzDI3H5f-1">
-          <mxGeometry x="-524.38" y="340" width="231.25" height="160" as="geometry" />
+          <mxGeometry x="-470" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
