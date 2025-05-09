@@ -470,7 +470,7 @@
         <mxCell id="tvJN-j0uumkm1aObJJgK-24" value="WageDetail&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Read(Non Async)&lt;br&gt;&lt;div&gt;WageFileDataum&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFD209;" vertex="1" parent="wswy12nx5ggPTzDI3H5f-1">
           <mxGeometry x="800" y="510" width="135" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="tvJN-j0uumkm1aObJJgK-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="wswy12nx5ggPTzDI3H5f-1">
+        <mxCell id="tvJN-j0uumkm1aObJJgK-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;" vertex="1" parent="wswy12nx5ggPTzDI3H5f-1">
           <mxGeometry x="470" y="710" width="630" height="430" as="geometry" />
         </mxCell>
       </root>
