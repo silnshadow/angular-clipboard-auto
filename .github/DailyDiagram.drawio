@@ -482,7 +482,7 @@
         <mxCell id="WC9zymS3yiM6LONH22il-0" />
         <mxCell id="WC9zymS3yiM6LONH22il-1" parent="WC9zymS3yiM6LONH22il-0" />
         <mxCell id="-Ks5yGf0IwNx-tc1Ct87-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="WC9zymS3yiM6LONH22il-1">
-          <mxGeometry x="-1070" y="-290" width="1180" height="600" as="geometry" />
+          <mxGeometry x="-1070" y="-290" width="970" height="580" as="geometry" />
         </mxCell>
         <mxCell id="-Ks5yGf0IwNx-tc1Ct87-24" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WC9zymS3yiM6LONH22il-1">
           <mxGeometry x="-517.25" y="-40" width="337.25" height="290" as="geometry" />
@@ -496,7 +496,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WC9zymS3yiM6LONH22il-8" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;ProcessDetailsNormal&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#00CC00;shadow=1;" vertex="1" parent="WC9zymS3yiM6LONH22il-1">
-          <mxGeometry x="-499.5" y="-560" width="150" height="30" as="geometry" />
+          <mxGeometry x="-647.25" y="-565" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WC9zymS3yiM6LONH22il-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;READ&lt;br&gt;&lt;div&gt;&lt;div&gt;WageDtlTran&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WC9zymS3yiM6LONH22il-1">
           <mxGeometry x="-627.25" y="-280" width="110" height="140" as="geometry" />
