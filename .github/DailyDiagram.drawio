@@ -477,7 +477,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ProcessDetailsNormal" id="DsntI9Scwwr7D834XqZC">
-    <mxGraphModel dx="3153" dy="1709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3395" dy="1810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="WC9zymS3yiM6LONH22il-0" />
         <mxCell id="WC9zymS3yiM6LONH22il-1" parent="WC9zymS3yiM6LONH22il-0" />
@@ -536,6 +536,15 @@
         </mxCell>
         <mxCell id="-Ks5yGf0IwNx-tc1Ct87-29" value="Present" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WC9zymS3yiM6LONH22il-1">
           <mxGeometry x="-409.5" y="-85" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks5yGf0IwNx-tc1Ct87-30" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WC9zymS3yiM6LONH22il-1">
+          <mxGeometry x="60" y="-120" width="410" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks5yGf0IwNx-tc1Ct87-31" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Read&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;WageFileDataum&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WC9zymS3yiM6LONH22il-1">
+          <mxGeometry x="190" y="-55" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ks5yGf0IwNx-tc1Ct87-32" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Read&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;WageTempDataum&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WC9zymS3yiM6LONH22il-1">
+          <mxGeometry x="190" y="100" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
